@@ -1,0 +1,19 @@
+selenium
+bs4
+
+
+uploader.py
+sudo apt-get install python3-tk python3-dev
+pip install opencv-python
+sudo apt install gnome-screenshot
+sudo apt install scrot
+
+# Python packages
+pip install pyautogui opencv-python pillow numpy
+
+# System tools (Ubuntu/Debian)
+sudo apt-get install wmctrl xdotool scrot
+
+# Alternative for other Linux distributions:
+# sudo yum install wmctrl xdotool scrot        # RHEL/CentOS
+# sudo pacman -S wmctrl xdotool scrot          # Arch Linux
