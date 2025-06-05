@@ -1,4 +1,4 @@
-## Project Structure (Suggested)
+## Project Structure
 
 ```text
 filecr_scraper/
