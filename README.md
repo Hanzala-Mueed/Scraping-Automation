@@ -26,3 +26,12 @@ filecr_scraper/
 └── docs/
     └── project_doc.md        # The documentation
 ```
+
+phase 1: Category and URL scraping logic
+python -m scraper.new_scraper2
+
+Drag and drop automation
+python -m scraper.test
+
+download link scrapping
+python -m scraper.scraper

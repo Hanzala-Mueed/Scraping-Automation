@@ -1,579 +1,67 @@
 [
   {
-    "title": "DNSwift 1.1.2025.06.12",
-    "url": "https://filecr.com/windows/ari-sohandri-putra-dnswift/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.228964"
-  },
-  {
-    "title": "SoftPerfect NetWorx 7.3.2",
-    "url": "https://filecr.com/windows/softperfect-networx/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.229297"
-  },
-  {
-    "title": "HFS - HTTP File Server 0.57.3",
-    "url": "https://filecr.com/windows/hfs-http-file-server/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.229548"
-  },
-  {
     "title": "ExpressVPN 12.102.0.40",
     "url": "https://filecr.com/windows/expressvpn/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.229789"
+    "scraped_at": "2025-06-10T15:50:51.694599"
   },
   {
-    "title": "Outline Client VPN 1.15.1",
-    "url": "https://filecr.com/windows/outline-client-vpn/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.229951"
-  },
-  {
-    "title": "Solarwinds Serv-U MFT Server 15.5.1.104",
-    "url": "https://filecr.com/windows/servu-mft-server/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.230083"
-  },
-  {
-    "title": "TeamViewer 15.66.5",
-    "url": "https://filecr.com/windows/teamviewer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.230213"
-  },
-  {
-    "title": "DNSCrypt-proxy 2.1.12",
-    "url": "https://filecr.com/windows/dnscrypt-proxy/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.230372"
-  },
-  {
-    "title": "1.1.1.1 WARP VPN by Cloudflare 2025.4.943.0",
-    "url": "https://filecr.com/windows/warp-vpn-by-cloudflare/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.230529"
-  },
-  {
-    "title": "DNS Changer 2.3.4",
-    "url": "https://filecr.com/windows/sajjadmrx-dnschanger/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.230702"
-  },
-  {
-    "title": "FTPie Pro 2025.5.1",
-    "url": "https://filecr.com/windows/ftpie-pro/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.230862"
-  },
-  {
-    "title": "MyLanViewer 6.3.7 Enterprise",
-    "url": "https://filecr.com/windows/mylanviewer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:46.231025"
-  },
-  {
-    "title": "SimpleWall 3.8.6.1",
-    "url": "https://filecr.com/windows/simplewall/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.877142"
-  },
-  {
-    "title": "LanSweeper 12.5.0.3",
-    "url": "https://filecr.com/windows/lansweeper/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.877554"
-  },
-  {
-    "title": "NetLimiter 5.3.24",
-    "url": "https://filecr.com/windows/netlimiter/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.877928"
-  },
-  {
-    "title": "LizardSystems Wi-Fi Scanner 25.05",
-    "url": "https://filecr.com/windows/lizardsystems-wi-fi-scanner/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.878340"
-  },
-  {
-    "title": "LizardSystems Find MAC Address 25.05",
-    "url": "https://filecr.com/windows/lizardsystems-find-mac-address/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.878709"
-  },
-  {
-    "title": "Abylon WLAN-LIVE-SCANNER 2025.1",
-    "url": "https://filecr.com/windows/abylon-wlan-live-scanner/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.878910"
-  },
-  {
-    "title": "ChrisPC Free VPN Connection 4.25.0517",
-    "url": "https://filecr.com/windows/chrispc-free-vpn-connection/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.879070"
-  },
-  {
-    "title": "Nmap Security Scanner 7.97",
-    "url": "https://filecr.com/windows/nmap-security-scanner/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.879237"
-  },
-  {
-    "title": "Charles Web Debugging Proxy 5.0.1",
-    "url": "https://filecr.com/windows/charles-proxy/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.879616"
-  },
-  {
-    "title": "AnyDesk 9.5.4",
-    "url": "https://filecr.com/windows/anydesk/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.879980"
-  },
-  {
-    "title": "Purslane RustDesk 1.4.0",
-    "url": "https://filecr.com/windows/purslane-rustdesk/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.880152"
-  },
-  {
-    "title": "UltraVNC 1.6.1.0",
-    "url": "https://filecr.com/windows/ultravnc/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:29:53.880310"
-  },
-  {
-    "title": "TurboVNC 3.2",
-    "url": "https://filecr.com/windows/turbovnc/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.594724"
-  },
-  {
-    "title": "Windows 10 Firewall Control 9.0",
-    "url": "https://filecr.com/windows/windows-10-firewall-control/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.594937"
-  },
-  {
-    "title": "VPNLY - VPN for Windows",
-    "url": "https://filecr.com/windows/vpnly-vpn-for-windows/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.595101"
-  },
-  {
-    "title": "MobaXterm Professional 25.2",
-    "url": "https://filecr.com/windows/mobaxterm/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.595260"
-  },
-  {
-    "title": "YogaDNS Pro 1.47",
-    "url": "https://filecr.com/windows/yogadns-pro/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.595428"
-  },
-  {
-    "title": "Total Network Inventory 6.4.0.6754",
-    "url": "https://filecr.com/windows/total-network-inventory/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.595598"
-  },
-  {
-    "title": "SurfShark VPN 5.15.1999",
-    "url": "https://filecr.com/windows/surfshark-vpn-free/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.595791"
-  },
-  {
-    "title": "NetDetour 1.10",
-    "url": "https://filecr.com/windows/netdetour/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.595922"
-  },
-  {
-    "title": "Jahastech NxFilter 4.7.1.8",
-    "url": "https://filecr.com/windows/jahastech-nxfilter/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.596053"
-  },
-  {
-    "title": "Graphical Network Simulator (GNS3) 2.2.54",
-    "url": "https://filecr.com/windows/graphical-network-simulator-gns3/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.596208"
-  },
-  {
-    "title": "AdGuard Home 0.107.61",
-    "url": "https://filecr.com/windows/adguard-home/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.596337"
-  },
-  {
-    "title": "Advanced PortChecker 2.2.0",
-    "url": "https://filecr.com/windows/codedead-advanced-portchecker/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:01.596467"
-  },
-  {
-    "title": "Wireshark 4.4.6",
-    "url": "https://filecr.com/windows/wireshark/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.181496"
-  },
-  {
-    "title": "Network & WiFi",
-    "url": "https://filecr.com/windows/network/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.193571"
-  },
-  {
-    "title": "iTop VPN Free 6.4.0.6113",
-    "url": "https://filecr.com/windows/itop-vpn/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.194059"
-  },
-  {
-    "title": "RJL Port Listener 2.0",
-    "url": "https://filecr.com/windows/rjl-port-listener/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.194352"
-  },
-  {
-    "title": "Ekahau AI Pro 11.8.0",
-    "url": "https://filecr.com/windows/ekahau-ai-pro/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.194683"
-  },
-  {
-    "title": "AnyViewer 5.1.0",
-    "url": "https://filecr.com/windows/anyviewer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.195001"
-  },
-  {
-    "title": "Hotspot Shield VPN 12.9.7",
-    "url": "https://filecr.com/windows/hotspot-shield/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.195288"
-  },
-  {
-    "title": "Firewall Rule Creator 2.0.0",
-    "url": "https://filecr.com/windows/b0rx-firewall-rule-creator/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.195625"
-  },
-  {
-    "title": "OpenVPN 2.6.14",
-    "url": "https://filecr.com/windows/openvpn/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.195917"
-  },
-  {
-    "title": "SoftPerfect Network Scanner 8.2.4",
-    "url": "https://filecr.com/windows/softperfect-network-scanner/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.196164"
-  },
-  {
-    "title": "TrustViewer 2.14.2 Build 5809",
-    "url": "https://filecr.com/windows/trustviewer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.196407"
-  },
-  {
-    "title": "SoftPerfect Bandwidth Manager 3.3.0",
-    "url": "https://filecr.com/windows/softperfect-bandwidth-manager/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:09.196697"
-  },
-  {
-    "title": "MyPublicWiFi 31.1",
-    "url": "https://filecr.com/windows/mypublicwifi/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.795341"
-  },
-  {
-    "title": "NetSetMan Pro 5.4.0",
-    "url": "https://filecr.com/windows/netsetman-pro/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.795748"
-  },
-  {
-    "title": "NetSetMan 5.2",
-    "url": "https://filecr.com/windows/netsetman/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.796114"
-  },
-  {
-    "title": "Outline Manager",
-    "url": "https://filecr.com/windows/jigsaw-outline-manager/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.796438"
-  },
-  {
-    "title": "TrafficMonitor 1.85.1",
-    "url": "https://filecr.com/windows/zhongyang219-trafficmonitor/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.796769"
-  },
-  {
-    "title": "SerialPortAssistant 0.5.30",
-    "url": "https://filecr.com/windows/kang-lin-serialportassistant/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.797065"
-  },
-  {
-    "title": "Syncthing 1.29.0",
-    "url": "https://filecr.com/windows/syncthing-for-windows/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.797386"
-  },
-  {
-    "title": "LocalSend 1.17.0",
-    "url": "https://filecr.com/windows/localsend/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.797685"
-  },
-  {
-    "title": "Homedale 2.18",
-    "url": "https://filecr.com/windows/homedale/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.797979"
-  },
-  {
-    "title": "Sordum Reset Data Usage 1.2",
-    "url": "https://filecr.com/windows/sordum-reset-data-usage/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.798296"
-  },
-  {
-    "title": "Sordum Router Default Password 1.1",
-    "url": "https://filecr.com/windows/sordum-router-default-password/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.798588"
-  },
-  {
-    "title": "Wifinian 3.7.1",
-    "url": "https://filecr.com/windows/wifinian/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:16.798926"
-  },
-  {
-    "title": "Acrylic DNS Proxy 2.2.1",
-    "url": "https://filecr.com/windows/acrylic-dns-proxy/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.365493"
-  },
-  {
-    "title": "ManageWirelessNetworks 1.15",
-    "url": "https://filecr.com/windows/nirsoft-managewirelessnetworks/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.365780"
-  },
-  {
-    "title": "CCProxy 8.0.20250207",
-    "url": "https://filecr.com/windows/youngzsoft-ccproxy/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.366000"
-  },
-  {
-    "title": "NetSpot Unlimited Enterprise 4.0.1.615",
-    "url": "https://filecr.com/windows/netspot/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.366195"
-  },
-  {
-    "title": "PortScan 2.00",
+    "title": "PortScan 2.01",
     "url": "https://filecr.com/windows/portscan/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.366331"
+    "scraped_at": "2025-06-10T15:50:51.694672"
   },
   {
-    "title": "Psiphon 3 build 185",
-    "url": "https://filecr.com/windows/psiphon/",
+    "title": "Syncthing 1.29.1",
+    "url": "https://filecr.com/windows/syncthing-for-windows/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.366494"
+    "scraped_at": "2025-06-10T15:50:51.694718"
   },
   {
-    "title": "Planet VPN",
-    "url": "https://filecr.com/windows/planetvpn-free/",
+    "title": "Jahastech NxFilter 4.7.1.9",
+    "url": "https://filecr.com/windows/jahastech-nxfilter/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.366660"
+    "scraped_at": "2025-06-10T15:50:51.694763"
   },
   {
-    "title": "NetBalancer 12.5.4.4037",
-    "url": "https://filecr.com/windows/netbalancer/",
+    "title": "Wireshark 4.4.7",
+    "url": "https://filecr.com/windows/wireshark/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.366820"
+    "scraped_at": "2025-06-10T15:50:51.694794"
   },
   {
-    "title": "Parkdale 3.07",
-    "url": "https://filecr.com/windows/parkdale/",
+    "title": "PingPlotter Professional 5.25.12.9074",
+    "url": "https://filecr.com/windows/pingplotter/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.366948"
+    "scraped_at": "2025-06-10T15:50:51.694824"
   },
   {
-    "title": "Wireless Network Watcher 2.42",
-    "url": "https://filecr.com/windows/wireless-network-watcher/",
+    "title": "iTop VPN Free 6.5.0.6176",
+    "url": "https://filecr.com/windows/itop-vpn/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.367103"
+    "scraped_at": "2025-06-10T15:50:51.694854"
   },
   {
-    "title": "WifiInfoView 2.96",
-    "url": "https://filecr.com/windows/wifiinfoview/",
+    "title": "AnyDesk 9.5.5",
+    "url": "https://filecr.com/windows/anydesk/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.367231"
-  },
-  {
-    "title": "Network Drive Control 1.69",
-    "url": "https://filecr.com/windows/network-drive-control/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:24.367359"
+    "scraped_at": "2025-06-10T15:50:51.694883"
   },
   {
     "title": "DameWare Mini Remote Control 12.2.4.11",
@@ -581,382 +69,126 @@
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.948094"
+    "scraped_at": "2025-06-10T15:50:51.694911"
   },
   {
-    "title": "DameWare Remote Support 12.3.1.20",
+    "title": "DameWare Remote Support 12.3.2.5",
     "url": "https://filecr.com/windows/dameware-remote-support/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.948340"
+    "scraped_at": "2025-06-10T15:50:51.694938"
   },
   {
-    "title": "Access Agility WiFi Scanner 2.9.6.557",
-    "url": "https://filecr.com/windows/access-agility-wifi-scanner/",
+    "title": "LanSweeper 12.5.0.7",
+    "url": "https://filecr.com/windows/lansweeper/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.948512"
+    "scraped_at": "2025-06-10T15:50:51.694966"
   },
   {
-    "title": "ProxyCap 5.41",
-    "url": "https://filecr.com/windows/proxycap/",
+    "title": "DNSwift 1.1.2025.06.12",
+    "url": "https://filecr.com/windows/ari-sohandri-putra-dnswift/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.948795"
+    "scraped_at": "2025-06-10T15:50:51.694998"
   },
   {
-    "title": "TekWiFi 1.6.1",
-    "url": "https://filecr.com/windows/tekwifi/",
+    "title": "HFS - HTTP File Server 0.57.3",
+    "url": "https://filecr.com/windows/hfs-http-file-server/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.948960"
+    "scraped_at": "2025-06-10T15:50:58.831656"
   },
   {
-    "title": "VMware vSphere 8.0U3 C & D",
-    "url": "https://filecr.com/windows/vmware-vsphere/",
+    "title": "Outline Client VPN 1.15.1",
+    "url": "https://filecr.com/windows/outline-client-vpn/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.949096"
+    "scraped_at": "2025-06-10T15:50:58.831722"
   },
   {
-    "title": "VMware Horizon Enterprise 8.13.2406",
-    "url": "https://filecr.com/windows/vmware-horizon/",
+    "title": "Solarwinds Serv-U MFT Server 15.5.1.104",
+    "url": "https://filecr.com/windows/servu-mft-server/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.949253"
+    "scraped_at": "2025-06-10T15:50:58.831768"
   },
   {
-    "title": "SoftPerfect Connection Quality Monitor 1.1.0",
-    "url": "https://filecr.com/windows/softperfect-connection-quality-monitor/",
+    "title": "TeamViewer 15.66.5",
+    "url": "https://filecr.com/windows/teamviewer/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.949386"
+    "scraped_at": "2025-06-10T15:50:58.831826"
   },
   {
-    "title": "RealVNC VNC Server Enterprise 7.13.1",
-    "url": "https://filecr.com/windows/realvnc-vnc-server-enterprise/",
+    "title": "DNSCrypt-proxy 2.1.12",
+    "url": "https://filecr.com/windows/dnscrypt-proxy/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.949550"
+    "scraped_at": "2025-06-10T15:50:58.831858"
   },
   {
-    "title": "RealVNC VNC Viewer 7.13.1",
-    "url": "https://filecr.com/windows/realvnc-vnc-viewer/",
+    "title": "1.1.1.1 WARP VPN by Cloudflare 2025.4.943.0",
+    "url": "https://filecr.com/windows/warp-vpn-by-cloudflare/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.949716"
+    "scraped_at": "2025-06-10T15:50:58.831892"
   },
   {
-    "title": "Squirrels Reflector 4.1.2.178",
-    "url": "https://filecr.com/windows/squirrels-reflector/",
+    "title": "DNS Changer 2.3.4",
+    "url": "https://filecr.com/windows/sajjadmrx-dnschanger/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.949879"
+    "scraped_at": "2025-06-10T15:50:58.831921"
   },
   {
-    "title": "SoftPerfect WiFi Guard 2.2.4",
-    "url": "https://filecr.com/windows/softperfect-wifi-guard/",
+    "title": "FTPie Pro 2025.5.1",
+    "url": "https://filecr.com/windows/ftpie-pro/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:31.950035"
+    "scraped_at": "2025-06-10T15:50:58.831950"
   },
   {
-    "title": "Bluetooth MAC Address Changer 1.13.0.197b",
-    "url": "https://filecr.com/windows/bluetooth-mac-address-changer/",
+    "title": "MyLanViewer 6.3.7 Enterprise",
+    "url": "https://filecr.com/windows/mylanviewer/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.614681"
+    "scraped_at": "2025-06-10T15:50:58.831983"
   },
   {
-    "title": "Decontev IP-Toolbox 5.8.5",
-    "url": "https://filecr.com/windows/decontev-ip-toolbox/",
+    "title": "SimpleWall 3.8.6.1",
+    "url": "https://filecr.com/windows/simplewall/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.615127"
+    "scraped_at": "2025-06-10T15:50:58.832012"
   },
   {
-    "title": "AmneziaVPN 4.8.2.3",
-    "url": "https://filecr.com/windows/amneziavpn/",
+    "title": "NetLimiter 5.3.24",
+    "url": "https://filecr.com/windows/netlimiter/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.615420"
+    "scraped_at": "2025-06-10T15:50:58.832040"
   },
   {
-    "title": "PingPlotter Professional 5.25.8.9059",
-    "url": "https://filecr.com/windows/pingplotter/",
+    "title": "LizardSystems Wi-Fi Scanner 25.05",
+    "url": "https://filecr.com/windows/lizardsystems-wi-fi-scanner/",
     "primary_category": "Windows",
     "sub_category": "Network & WiFi",
     "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.619337"
-  },
-  {
-    "title": "VovSoft Proxy Checker 1.3",
-    "url": "https://filecr.com/windows/vovsoft-proxy-checker/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.619961"
-  },
-  {
-    "title": "NETworkManager 2024.11.11.0",
-    "url": "https://filecr.com/windows/networkmanager/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.620370"
-  },
-  {
-    "title": "Windows 10 Network Fix and Optimizer Utility 1.3",
-    "url": "https://filecr.com/windows/windows-10-network-fix-and-optimizer-utility/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.620792"
-  },
-  {
-    "title": "Network Notepad Free 6.1.4",
-    "url": "https://filecr.com/windows/network-notepad/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.621194"
-  },
-  {
-    "title": "PingTool 4.3.0.84",
-    "url": "https://filecr.com/windows/lugrain-software-pingtool/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.621577"
-  },
-  {
-    "title": "ChrisPC Anonymous Proxy Pro 9.24.0308",
-    "url": "https://filecr.com/windows/chrispc-anonymous-proxy/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.626240"
-  },
-  {
-    "title": "SoftPerfect Switch Port Mapper 3.1.10",
-    "url": "https://filecr.com/windows/softperfect-switch-port-mapper/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.627103"
-  },
-  {
-    "title": "VovSoft Network Alarmer 5.0",
-    "url": "https://filecr.com/windows/vovsoft-network-alarmer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:39.627433"
-  },
-  {
-    "title": "Remote Utilities Viewer 7.6.2.0",
-    "url": "https://filecr.com/windows/remote-utilities-viewer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.267824"
-  },
-  {
-    "title": "PGWare Throttle 8.10.21.2024",
-    "url": "https://filecr.com/windows/pgware-throttle/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.268164"
-  },
-  {
-    "title": "EMCO Network Inventory Enterprise 5.8.25.11048",
-    "url": "https://filecr.com/windows/emco-network-inventory-enterprise/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.268411"
-  },
-  {
-    "title": "IPSwitcher 4.4.0.34",
-    "url": "https://filecr.com/windows/ipswitcher/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.268609"
-  },
-  {
-    "title": "MiTeC Network Scanner 6.0.1",
-    "url": "https://filecr.com/windows/mitec-network-scanner/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.268824"
-  },
-  {
-    "title": "Endpoint Status Checker 2.13.0",
-    "url": "https://filecr.com/windows/endpoint-status-checker/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.268985"
-  },
-  {
-    "title": "TightVNC 2.8.63",
-    "url": "https://filecr.com/windows/tightvnc/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.269116"
-  },
-  {
-    "title": "TurboFTP Server 4.42.2837",
-    "url": "https://filecr.com/windows/turboftp-server/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.269278"
-  },
-  {
-    "title": "Remote Administrator Control Client 6.0.0.0",
-    "url": "https://filecr.com/windows/remote-administrator-control-client/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.269433"
-  },
-  {
-    "title": "NirSoft WifiChannelMonitor 1.66",
-    "url": "https://filecr.com/windows/nirsoft-wifichannelmonitor/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.269562"
-  },
-  {
-    "title": "Progress WhatsUp Gold 24.0.2096",
-    "url": "https://filecr.com/windows/progress-whatsup-gold/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.269724"
-  },
-  {
-    "title": "HaneWin LLDP Service 1.4.30",
-    "url": "https://filecr.com/windows/hanewin-lldp-service/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:47.269854"
-  },
-  {
-    "title": "WatchFTP Pro 4.5.1",
-    "url": "https://filecr.com/windows/gdp-software-watchftp-pro/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.839123"
-  },
-  {
-    "title": "O&O Lanytix 1.2.1343.182",
-    "url": "https://filecr.com/windows/oo-lanytix/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.839464"
-  },
-  {
-    "title": "Omnify Hotspot 5.2",
-    "url": "https://filecr.com/windows/omnify-hotspot/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.839740"
-  },
-  {
-    "title": "Algorius Net Viewer 2024.7.3",
-    "url": "https://filecr.com/windows/algorius-net-viewer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.839906"
-  },
-  {
-    "title": "Wagnardsoft IP Changer 1.3.5.1",
-    "url": "https://filecr.com/windows/wagnardsoft-ip-changer/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.840072"
-  },
-  {
-    "title": "VMware vCenter Server 8.0.2",
-    "url": "https://filecr.com/windows/vmware-vcenter-server/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.840238"
-  },
-  {
-    "title": "Axence NetTools 5.0.2.35140",
-    "url": "https://filecr.com/windows/axence-nettools/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.840371"
-  },
-  {
-    "title": "Managed Switch Port Mapping Tool 2.86.7",
-    "url": "https://filecr.com/windows/managed-switch-port-mapping-tool/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.840528"
-  },
-  {
-    "title": "PortCheck 3.0.16",
-    "url": "https://filecr.com/windows/lugrain-software-portcheck/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.840665"
-  },
-  {
-    "title": "XiaoyaLab RealWiFi",
-    "url": "https://filecr.com/windows/xiaoyalab-realwifi/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.840823"
-  },
-  {
-    "title": "XiaoyaLab Real Speed Test",
-    "url": "https://filecr.com/windows/xiaoyalab-real-speed-test/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.840985"
-  },
-  {
-    "title": "XiaoyaLab RealFTP",
-    "url": "https://filecr.com/windows/xiaoyalab-realftp/",
-    "primary_category": "Windows",
-    "sub_category": "Network & WiFi",
-    "child_category": null,
-    "scraped_at": "2025-06-03T18:30:54.841117"
+    "scraped_at": "2025-06-10T15:50:58.832069"
   }
 ]

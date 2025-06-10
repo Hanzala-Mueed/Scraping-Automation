@@ -1,7 +1,7 @@
-selenium
-bs4
-uvicorn
-fastapi
+# selenium
+# bs4
+# uvicorn
+# fastapi
 
 pydantic
 sqlalchemy
@@ -10,6 +10,49 @@ scrot
 pyautogui
 wmctrl
 xdotool
+
+
+python3-tk python3-dev
+opencv-python
+gnome-screenshot
+sudo apt install scrot
+pyautogui opencv-python pillow numpy
+wmctrl xdotool sc
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# HTTP and Web Scraping
+requests==2.31.0
+httpx==0.25.2
+aiohttp==3.9.1
+
+# HTML Parsing
+beautifulsoup4==4.12.2
+lxml==4.9.3
+html5lib==1.1
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.4
+
+# Browser Automation (if needed)
+selenium==4.15.2
+
+# Database (if needed)
+sqlalchemy==2.0.23
+
+# File Handling
+openpyxl==3.1.2
+
+# Utilities
+python-dotenv==1.0.0
+pathlib2==2.3.7
+
+#scraping libraries
+selenium
+bs4
 
 
 # uploader.py

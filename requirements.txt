@@ -1,19 +1,63 @@
 selenium
 bs4
-
-
-uploader.py
-sudo apt-get install python3-tk python3-dev
-pip install opencv-python
-sudo apt install gnome-screenshot
+python3-tk python3-dev
+opencv-python
+gnome-screenshot
 sudo apt install scrot
+pyautogui opencv-python pillow numpy
+wmctrl xdotool sc
 
-# Python packages
-pip install pyautogui opencv-python pillow numpy
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
 
-# System tools (Ubuntu/Debian)
-sudo apt-get install wmctrl xdotool scrot
+# HTTP and Web Scraping
+requests==2.31.0
+httpx==0.25.2
+aiohttp==3.9.1
 
-# Alternative for other Linux distributions:
-# sudo yum install wmctrl xdotool scrot        # RHEL/CentOS
-# sudo pacman -S wmctrl xdotool scrot          # Arch Linux
+# HTML Parsing
+beautifulsoup4==4.12.2
+lxml==4.9.3
+html5lib==1.1
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.4
+
+# Browser Automation (if needed)
+selenium==4.15.2
+
+# Database (if needed)
+sqlalchemy==2.0.23
+
+# File Handling
+openpyxl==3.1.2
+
+# Utilities
+python-dotenv==1.0.0
+pathlib2==2.3.7
+
+#scraping libraries
+selenium
+bs4
+
+
+
+
+
+# uploader.py
+# sudo apt-get install python3-tk python3-dev
+# pip install opencv-python
+# sudo apt install gnome-screenshot
+# sudo apt install scrot
+
+# # Python packages
+# pip install pyautogui opencv-python pillow numpy
+
+# # System tools (Ubuntu/Debian)
+# sudo apt-get install wmctrl xdotool scrot
+
+# # Alternative for other Linux distributions:
+# # sudo yum install wmctrl xdotool scrot        # RHEL/CentOS
+# # sudo pacman -S wmctrl xdotool scrot          # Arch Linux
